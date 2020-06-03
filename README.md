@@ -6,7 +6,7 @@ first you need to download harhaarcascade_frontalface_default.xml
 
 download haarcascade : https://iweb.dl.sourceforge.net/project/magicvisionport/mvp/cascades/haarcascade_frontalface_default.xml
 
-and open cv :
+download openCv :
 
 
 -open prompt command
